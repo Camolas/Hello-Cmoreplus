@@ -1,3 +1,3 @@
 # Programação Clientes
 
-A inicial intro to use this plataform
+Project to create a publicity ( recommend system for clients) to Supermarkets
