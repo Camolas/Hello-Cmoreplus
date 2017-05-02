@@ -1,0 +1,8 @@
+﻿-------- Edit and Continue build started --------
+
+Source.cpp
+h:\xpto\documents\dropbox\samba\2semester2015\prog\tps\2017\transportes\transportes\source.cpp(94): error C2360: initialization of 'station' is skipped by 'case' label
+h:\xpto\documents\dropbox\samba\2semester2015\prog\tps\2017\transportes\transportes\source.cpp(82): note: see declaration of 'station'
+Project : error (null) : Build errors occurred.
+--------------------- Done ----------------------
+
